@@ -22,7 +22,7 @@ scrapy crawl breed -O filename.json
 Simple application that parse: https://catfishes.ru/porody-koshek/ 
 and represents data into json format.
 
-Comand: scrapy breed -O filename.json
+Command: scrapy breed -O filename.json
 Genarates .json file which contain parsed information about cat from https://catfishes.ru/porody-koshek/ 
 ```
 
